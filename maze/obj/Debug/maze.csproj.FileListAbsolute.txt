@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\maze\bin\Debug\maze.exe.config
+C:\Users\User\source\repos\maze\bin\Debug\maze.exe
+C:\Users\User\source\repos\maze\bin\Debug\maze.pdb
+C:\Users\User\source\repos\maze\obj\Debug\maze.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\maze\obj\Debug\maze.maze_form.resources
+C:\Users\User\source\repos\maze\obj\Debug\maze.Properties.Resources.resources
+C:\Users\User\source\repos\maze\obj\Debug\maze.csproj.GenerateResource.cache
+C:\Users\User\source\repos\maze\obj\Debug\maze.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\maze\obj\Debug\maze.exe
+C:\Users\User\source\repos\maze\obj\Debug\maze.pdb
