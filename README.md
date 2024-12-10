@@ -1,2 +1,2 @@
 # maze
-using DFS
+@undermining
